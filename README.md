@@ -20,8 +20,6 @@
 I am a Robotics Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently doing my Master of Science in Robotics at University of Minnesota-Twin Cities.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgshenoy/)
@@ -49,9 +47,3 @@ I am a Robotics Software Engineer <img src="https://media.giphy.com/media/WUlplc
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShenoyVaradaraya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenoyVaradaraya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
