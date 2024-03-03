@@ -20,7 +20,7 @@
 I am a Robotics Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 🤖
 - :telescope: I’m currently doing my Master of Science in Robotics at University of Minnesota-Twin Cities.
 
-- :zap: In my free time, I write and read tech articles. ✍️ :reading:
+- :zap: In my free time, I write and read tech articles. ✍️ 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgshenoy/)
 
